@@ -1,6 +1,6 @@
 TWSE:2603
 ```text
-# TWSE:2603 - 🗒 Cathay Financial Holding Material News & Developments
+# TWSE:2603 - 🗒 Evergreen Marine Corporation (Taiwan) Material News & Developments
 
 ▲ [Aug 26, 2026]: FactSet Consensus Lifts FY26 EPS to NT$33.36; Target 246.5
 │ 🔴 (high)       FactSet's latest survey of analysts raised the FY2026 EPS estimate

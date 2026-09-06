@@ -1,6 +1,6 @@
 TWSE:2850
 ```text
-# TWSE:2850 - 🗒 Taiwan High Speed Rail Material News & Developments
+# TWSE:2850 - 🗒 Shin Kong Insurance Material News & Developments
 
 ▲ [Aug 19, 2026]: Board approves H1 2026 financial report — NT$2.69bn net profit, H1 EPS NT$8.51
 │ 🔴 (high)          Board approved the 115th-fiscal-year (2026) H1 (Jan–Jun) financial statements: operating revenue NT$14.77bn, operating income NT$3.10bn,

@@ -1,6 +1,6 @@
 EURONEXT:ALCAT
 ```text
-# EURONEXT:ALCAT - 🗒 Alten Material News & Developments
+# EURONEXT:ALCAT - 🗒 Catana Group Material News & Developments
 
 ▲ [Aug 03, 2026]: PPF Cyprus Management crosses below 5% voting-rights threshold
 │ 🟡 (med)          PPF Cyprus Management (Nicosia, Cyprus) disclosed that its voting-rights
